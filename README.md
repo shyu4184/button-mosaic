@@ -106,6 +106,7 @@ License: <a href="https://creativecommons.org/licenses/by-nc/2.0/" rel="nofollow
 </pre>
 </details>
 
+
 ___
 
 The paintings are all in the public domain, but some of the source images of buttons are licensed under the share-alike license CC BY-NC-SA 2.0. The reproduced images above are therefore licensed under:
