@@ -52,7 +52,6 @@ ___
 	<img src="output_images/braided-streams.jpg" alt="Braided Streams" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
-<br/>
 
 [Source Photograph](https://www.flickr.com/photos/katmainps/43417091514)
 
