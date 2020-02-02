@@ -8,8 +8,8 @@ ___
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
-___
 
+___
 ## De Tio Största, nr 3 - *Hilma af Klint*
 
 <div about="output_images/de-tio-största-nr-3.jpg">
@@ -17,8 +17,8 @@ ___
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
-___
 
+___
 ## The Great Wave off Kanagawa - *Hokusai*
 
 <div about="output_images/great-wave-off-kanagawa.jpg">
@@ -26,8 +26,8 @@ ___
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
-___
 
+___
 ## The Scream - *Edvard Munch*
 
 <div about="output_images/the-scream.jpg">
@@ -35,8 +35,8 @@ ___
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
-___
 
+___
 ## Wheat Field with Cypresses - *Vincent van Gogh*
 
 <div about="output_images/wheat-field-with-cypresses.jpg">
@@ -44,8 +44,8 @@ ___
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
-___
 
+___
 ## License and Attributions
 
 I've created the database of buttons by splitting, cropping, masking and resizing images of buttons sourced from various places. All source images are licensed to permit sharing and adaption and I've attributed the creators of these images under *attributions* below.
