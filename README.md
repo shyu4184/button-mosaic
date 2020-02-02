@@ -1,4 +1,5 @@
 # Object Packing Mosaic
+___
 
 ## American Gothic - *Grant Wood*
 
@@ -7,6 +8,7 @@
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
+___
 
 ## De Tio Största, nr 3 - *Hilma af Klint*
 
@@ -15,6 +17,7 @@
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
+___
 
 ## The Great Wave off Kanagawa - *Hokusai*
 
@@ -23,6 +26,7 @@
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
+___
 
 ## The Scream - *Edvard Munch*
 
@@ -31,6 +35,7 @@
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
+___
 
 ## Wheat Field with Cypresses - *Vincent van Gogh*
 
@@ -39,6 +44,7 @@
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
+___
 
 ## License and Attributions
 
