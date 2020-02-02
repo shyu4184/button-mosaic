@@ -6,6 +6,7 @@
   <img src="output_images/american-gothic.jpg" alt="American Gothic" />
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
+<br/>
 
 ## De Tio Största, nr 3 - *Hilma af Klint*
 
@@ -13,6 +14,7 @@
 	<img src="output_images/de-tio-största-nr-3.jpg" alt="De Tio Största, nr 3" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
+<br/>
 
 ## The Great Wave off Kanagawa - *Hokusai*
 
@@ -20,6 +22,7 @@
   <img src="output_images/great-wave-off-kanagawa.jpg" alt="The Great Wave off Kanagawa" />
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
+<br/>
 
 ## The Scream - *Edvard Munch*
 
@@ -27,6 +30,7 @@
   <img src="output_images/the-scream.jpg" alt="The Scream" />
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
+<br/>
 
 ## Wheat Field with Cypresses - *Vincent van Gogh*
 
@@ -34,6 +38,7 @@
 	<img src="output_images/wheat-field-with-cypresses.jpg" alt="Wheat Field with Cypresses" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
+<br/>
 
 ## License and Attributions
 
