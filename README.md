@@ -1,7 +1,7 @@
 # Object Packing Mosaic
 ___
 
-## American Gothic - *Grant Wood*
+### American Gothic - *Grant Wood*
 
 <div about="output_images/american-gothic.jpg">
   <img src="output_images/american-gothic.jpg" alt="American Gothic" />
@@ -10,34 +10,7 @@ ___
 <br/>
 
 ___
-## De Tio Största, nr 3 - *Hilma af Klint*
-
-<div about="output_images/de-tio-största-nr-3.jpg">
-	<img src="output_images/de-tio-största-nr-3.jpg" alt="De Tio Största, nr 3" />
-	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
-</div>
-<br/>
-
-___
-## The Great Wave off Kanagawa - *Hokusai*
-
-<div about="output_images/great-wave-off-kanagawa.jpg">
-  <img src="output_images/great-wave-off-kanagawa.jpg" alt="The Great Wave off Kanagawa" />
-  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
-</div>
-<br/>
-
-___
-## The Scream - *Edvard Munch*
-
-<div about="output_images/the-scream.jpg">
-  <img src="output_images/the-scream.jpg" alt="The Scream" />
-  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
-</div>
-<br/>
-
-___
-## Wheat Field with Cypresses - *Vincent van Gogh*
+### Wheat Field with Cypresses - *Vincent van Gogh*
 
 <div about="output_images/wheat-field-with-cypresses.jpg">
 	<img src="output_images/wheat-field-with-cypresses.jpg" alt="Wheat Field with Cypresses" />
@@ -46,14 +19,41 @@ ___
 <br/>
 
 ___
-## Braided Streams - *Katmai National Park and Preserve*
+### The Great Wave off Kanagawa - *Hokusai*
+
+<div about="output_images/great-wave-off-kanagawa.jpg">
+  <img src="output_images/great-wave-off-kanagawa.jpg" alt="The Great Wave off Kanagawa" />
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+</div>
+<br/>
+
+___
+### De Tio Största, nr 3 - *Hilma af Klint*
+
+<div about="output_images/de-tio-största-nr-3.jpg">
+	<img src="output_images/de-tio-största-nr-3.jpg" alt="De Tio Största, nr 3" />
+	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+</div>
+<br/>
+
+___
+### The Scream - *Edvard Munch*
+
+<div about="output_images/the-scream.jpg">
+  <img src="output_images/the-scream.jpg" alt="The Scream" />
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+</div>
+<br/>
+
+___
+### Braided Streams - *Katmai National Park and Preserve*
 
 <div about="output_images/braided-streams.jpg">
 	<img src="output_images/braided-streams.jpg" alt="Braided Streams" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 
-[Source Photograph](https://www.flickr.com/photos/katmainps/43417091514)
+[Source Photo](https://www.flickr.com/photos/katmainps/43417091514)
 
 ___
 ## License and Attributions
@@ -165,7 +165,7 @@ License: <a href="https://creativecommons.org/licenses/by/2.0/">https://creative
 
 ___
 
-The reproduced paintings and photographs are all in the public domain, but some of the source images of buttons are licensed under the share-alike license CC BY-NC-SA 2.0. The reproduced images above are therefore licensed under:
+The reproduced paintings and photos are all in the public domain, but some of the source images of buttons are licensed under the share-alike license CC BY-NC-SA 2.0. The reproduced images above are therefore licensed under:
 
 <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
