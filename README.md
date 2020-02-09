@@ -4,7 +4,7 @@ ___
 ### American Gothic - *Grant Wood*
 
 <div about="output_images/american-gothic.jpg">
-  <img src="output_images/american-gothic.jpg" alt="American Gothic" />
+  <img src="output_images/american-gothic.jpg" alt title="17502 buttons"/>
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
@@ -13,7 +13,7 @@ ___
 ### Wheat Field with Cypresses - *Vincent van Gogh*
 
 <div about="output_images/wheat-field-with-cypresses.jpg">
-	<img src="output_images/wheat-field-with-cypresses.jpg" alt="Wheat Field with Cypresses" />
+	<img src="output_images/wheat-field-with-cypresses.jpg" alt title="16868 buttons" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
@@ -22,7 +22,7 @@ ___
 ### The Great Wave off Kanagawa - *Hokusai*
 
 <div about="output_images/great-wave-off-kanagawa.jpg">
-  <img src="output_images/great-wave-off-kanagawa.jpg" alt="The Great Wave off Kanagawa" />
+  <img src="output_images/great-wave-off-kanagawa.jpg" alt title="17403 buttons" />
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
@@ -31,7 +31,7 @@ ___
 ### De Tio Största, nr 3 - *Hilma af Klint*
 
 <div about="output_images/de-tio-största-nr-3.jpg">
-	<img src="output_images/de-tio-största-nr-3.jpg" alt="De Tio Största, nr 3" />
+	<img src="output_images/de-tio-största-nr-3.jpg" alt title="30852 buttons" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
@@ -40,7 +40,7 @@ ___
 ### The Scream - *Edvard Munch*
 
 <div about="output_images/the-scream.jpg">
-  <img src="output_images/the-scream.jpg" alt="The Scream" />
+  <img src="output_images/the-scream.jpg" alt title="31361 buttons" />
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
@@ -49,7 +49,7 @@ ___
 ### Braided Streams - *Katmai National Park and Preserve*
 
 <div about="output_images/braided-streams.jpg">
-	<img src="output_images/braided-streams.jpg" alt="Braided Streams" />
+	<img src="output_images/braided-streams.jpg" alt title="24675 buttons" />
 	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 
