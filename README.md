@@ -4,7 +4,7 @@ ___
 ### The Scream - *Edvard Munch*
 
 <div about="output_images/the-scream.jpg">
-  <img src="output_images/the-scream.jpg" alt title="31361 buttons" />
+  <img src="output_images/the-scream.jpg" alt title="38888 buttons" />
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
