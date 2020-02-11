@@ -1,11 +1,11 @@
 # Button Mosaic
 ___
 
-### The Scream - *Edvard Munch*
+### Wheat Field with Cypresses - *Vincent van Gogh*
 
-<div about="output_images/the-scream.jpg">
-  <img src="output_images/the-scream.jpg" alt title="38888 buttons" />
-  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+<div about="output_images/wheat-field-with-cypresses.jpg">
+	<img src="output_images/wheat-field-with-cypresses.jpg" alt title="16868 buttons" />
+	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
 
@@ -19,11 +19,19 @@ ___
 <br/>
 
 ___
-### Wheat Field with Cypresses - *Vincent van Gogh*
+### Girl with a Pearl Earring - *Johannes Vermeer*
 
-<div about="output_images/wheat-field-with-cypresses.jpg">
-	<img src="output_images/wheat-field-with-cypresses.jpg" alt title="16868 buttons" />
-	<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+<div about="output_images/girl-with-a-pearl-earring.jpg">
+  <img src="output_images/girl-with-a-pearl-earring.jpg" alt title="11615 buttons" />
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+</div>
+<br/>
+
+### The Scream - *Edvard Munch*
+
+<div about="output_images/the-scream.jpg">
+  <img src="output_images/the-scream.jpg" alt title="38888 buttons" />
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
 </div>
 <br/>
 
